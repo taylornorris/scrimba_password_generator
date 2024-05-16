@@ -24,12 +24,6 @@ function generatePass() {
 }
 
 function populatePass() {
-    let passwordOne = generatePass()
-    let passwordTwo = generatePass()
-    
-    passwordOneEl.textContent = passwordOne
-    passwordTwoEl.textContent = passwordTwo
+    passwordOneEl.textContent = generatePass()
+    passwordTwoEl.textContent = generatePass()
 }
-
-
-
