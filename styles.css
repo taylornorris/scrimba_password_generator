@@ -12,7 +12,7 @@ body {
     height: 550px;
     width: 550px;
     margin: 25px auto;
-    padding: 115px 52px;
+    padding: 110px 52px;
     background: #1F2937;
 }
 
@@ -20,7 +20,7 @@ h1 {
     font-family: "Karla", sans-serif;
     font-size: 40px;
     font-weight: 800;
-    line-height: .9;
+    line-height: .98;
 }
 
 .h_line_one {
@@ -32,15 +32,15 @@ h1 {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 400;
     color: #D5D4D8;
-    margin-top: 10px;
+    margin-top: 14px;
 }
 
 button {
-    margin-top: 51px;
-    padding: 9px 17px;
+    margin-top: 58px;
+    padding: 12px 18px;
     color: white;
     font-size: 16px;
     font-weight: 400;
