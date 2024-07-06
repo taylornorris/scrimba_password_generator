@@ -5,6 +5,7 @@
 
 body {
     font-family: "Inter", sans-serif;
+    background-color: #2F3E53;
 }
 
 .container {
@@ -49,12 +50,11 @@ button {
 }
 
 button:hover {
-    border: 1px solid white;
+    cursor: pointer;
 }
 
 button:active {
-    background-color: white;
-    color: #10B981; 
+    transform: scale(1.05);
 }
 
 .divider {
